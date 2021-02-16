@@ -1,0 +1,1 @@
+typedef void DocumentExists(bool isExists, int index);
